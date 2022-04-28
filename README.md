@@ -3,3 +3,4 @@ In this series of notebooks we try different types of GANs for data augmentation
 
 ![SegmentLocal](vangan_0.gif "gif")
 ![SegmentLocal](dcgan.gif "gif")
+![SegmentLocal](cgan.gif "gif")
